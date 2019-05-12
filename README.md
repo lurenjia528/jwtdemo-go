@@ -18,3 +18,19 @@ db.UserModel.find()
 ```
 
 查询时,header为 authorization: token  中间没有Bearer(也可以自行处理)
+
+注册
+
+![1](./testimg/注册.png)
+
+登录
+
+![1](./testimg/登录.png)
+
+上传
+
+![1](./testimg/上传.png)
+
+获取所有
+
+![1](./testimg/获取所有.png)
